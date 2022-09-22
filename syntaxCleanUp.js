@@ -18,7 +18,7 @@ var post = {
 }
 
 
-var post2 ={
+var post2 = {
   imageSrc: "./images/holiday-party.png",
   caption: "What a great holiday party omg",
   timestamp: "11:37 PM December 31, 2019",
